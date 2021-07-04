@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu.services</groupId>
 	<artifactId>insight</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>${nabu.services-insight-version}</version>
 	<name>insight</name>
 	
 	<parent>
